@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto 0/Mecânicas/Dungeon.md",
+                "file": "Projeto 0/Mecânicas/Fabricação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon"
+              "title": "Fabricação"
             }
           }
         ]
@@ -208,24 +208,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cffef60e1ece155f",
+  "active": "5b0adc8accedb3c1",
   "lastOpenFiles": [
+    "README.md",
+    "Projeto 0/Mecânicas/Fabricação.md",
+    "Projeto 0/Mecânicas/RPG.md",
+    "Projeto 0/Arte/Arte.md",
+    "Projeto 0/Arte/Inimigos.md",
+    "Projeto 0/Mecânicas/Dungeon.md",
     "Agent",
     "rpg-procedural/README.md",
     "rpg-procedural",
-    "Projeto 0/Mecânicas/Dungeon.md",
-    "Projeto 0/Mecânicas/Fabricação.md",
     "Projeto 0/Mecânicas/Magia.md",
     "Projeto 0/Mecânicas/Mecânicas.md",
-    "Projeto 0/Mecânicas/RPG.md",
     "Projeto 0/Mecânicas/Tipos De Magia/Tipos De Magia.md",
     "Projeto 0/Mecânicas/Tipos De Magia/Sangue.md",
     "Projeto 0/Mecânicas/Tipos De Magia/Gelo.md",
     "Projeto 0/Mecânicas/Tipos De Magia/Fogo.md",
     "Projeto 0/Mecânicas/Árvore de Skill/Tanque.md",
     "Projeto 0/Mecânicas/Árvore de Skill/Árvore de Skill.md",
-    "Projeto 0/Arte/Inimigos.md",
-    "Projeto 0/Arte/Arte.md",
     "Projeto 0/Mecânicas/Atributos.md",
     "Projeto 0/Mecânicas/Tipos de Munição/Tipos de Munição.md",
     "Projeto 0/Mecânicas/Tiro.md",
@@ -244,7 +245,6 @@
     "Projeto 0/Mecânicas/Comportamento de Inimigos",
     "Projeto 0/Arte",
     "Projeto 0/Mecânicas",
-    "Projeto 0",
-    "teste"
+    "Projeto 0"
   ]
 }
