@@ -1,0 +1,7 @@
+-[[Tiro]]
+-[[Magia]]
+-[[RPG]]
+-[[Árvore de Skill]]
+-[[Atributos]]
+-[[Dungeon]]
+-[[Fabricação]]
